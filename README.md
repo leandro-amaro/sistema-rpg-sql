@@ -33,20 +33,17 @@ JOIN INVENTARIO INV ON J.ID_Jogador = INV.ID_Jogador
 JOIN ITEM I ON INV.ID_Item = I.ID_Item;
 ```
 
-## Fotos Do Projeto:
-### Modelagem de Dados (DER)
-<img width="707" height="469" alt="Captura de tela de 2025-12-27 20-13-14" src="https://github.com/user-attachments/assets/0176cee2-fd95-41d7-a0ee-8bd0aaa51da3" />
-### Código Rodando no Terminal (MySQL)
-<img width="1366" height="768" alt="Captura de tela de 2025-12-27 20-10-57" src="https://github.com/user-attachments/assets/7298e0b3-9148-421d-8913-7ef4623564e0" />
-<img width="1366" height="768" alt="Captura de tela de 2025-12-27 20-10-35" src="https://github.com/user-attachments/assets/80526542-8878-4f83-8191-1452a5fae713" />
-<img width="1366" height="768" alt="Captura de tela de 2025-12-27 20-11-22" src="https://github.com/user-attachments/assets/ef42a267-0c2c-48a5-b193-492e8d9105c2" />
-<img width="1357" height="121" alt="Captura de tela de 2025-12-27 20-11-12" src="https://github.com/user-attachments/assets/7cb87b41-8539-4958-9ee7-79b7c535d351" />
-<img width="1357" height="427" alt="Captura de tela de 2025-12-27 20-11-41" src="https://github.com/user-attachments/assets/2dd12de0-468b-4afd-9ebd-b7b7afccddc9" />
-### Código Limpo no Visual Studio Code
-<img width="1366" height="768" alt="Captura de tela de 2025-12-27 20-29-31" src="https://github.com/user-attachments/assets/be0360cb-66c1-4d64-a007-53cf9f634f7b" />
-<img width="1366" height="768" alt="Captura de tela de 2025-12-27 20-29-44" src="https://github.com/user-attachments/assets/7c8c0e0c-5367-462f-bafd-a29251eb521b" />
-<img width="1366" height="768" alt="Captura de tela de 2025-12-27 20-29-50" src="https://github.com/user-attachments/assets/bd493994-3074-4f3f-b97a-7fddcb352de6" />
+## 📸 Demonstração do Projeto
 
+### 1. Modelagem de Dados (DER)
+![Diagrama Entidade Relacionamento](https://github.com/user-attachments/assets/0176cee2-fd95-41d7-a0ee-8bd0aaa51da3)
+
+### 2. Implementação e Consultas (MySQL)
+![Resultado no Terminal](https://github.com/user-attachments/assets/ef42a267-0c2c-48a5-b193-492e8d9105c2)
+![Tabela Final](https://github.com/user-attachments/assets/7cb87b41-8539-4958-9ee7-79b7c535d351)
+
+### 3. Script SQL no VS Code
+![Código no VS Code](https://github.com/user-attachments/assets/7c8c0e0c-5367-462f-bafd-a29251eb521b)
 
 
 ## 👨‍💻 Autor
